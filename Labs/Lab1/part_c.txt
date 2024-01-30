@@ -1,0 +1,2 @@
+out_0 = (¬in0 ∧ ¬in2) ∨ (in0 ∧ in2) ∨ (¬in1 ∧ ¬in2)
+out_0 = (¬in0 ∧ ¬in2) ∨ (in0 ∧ in2) ∨ (in0 ∧ ¬in1)
