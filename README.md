@@ -1,3 +1,1 @@
-#CSE-12 GitHub Repository
-
-#Private!
+# CSE-12 Lab Assignments
